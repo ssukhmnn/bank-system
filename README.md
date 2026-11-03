@@ -2,5 +2,5 @@
 project
 <br> 
 br is used for next line
-Author - Sukhman Singh
+Author - Sarder Sukhman Singh
 html is also accepted in readme
